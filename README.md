@@ -7,4 +7,4 @@ Module used:
 Command to download module:
   - pip install pywhatkit
   
-For output verification please check the instagram page: @python_projects_
+For output verification please check the instagram page: https://www.instagram.com/hack_smashes/
